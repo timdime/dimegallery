@@ -2,7 +2,6 @@
 Saturday, July 6
 ## Tentative Schedule 
 -----
-<div style="text-align:left">
 
 ### Neighbor’s Events
 * 1 hour Open swim, lawn games (Connect Four, Yahtzee, Rope Ring Toss)- (6956 Tim & Amanda)
@@ -32,4 +31,3 @@ Saturday, July 6
 * Bags Tournament- Anyone interested in heading this up? Or shall we retire this tournament and we can do a Marshmallow Long 
 * Drive Challenge: Golfers pay for a marshmallow and then will drive the marshmallow from the tee box and just like a Long Drive Competition, the golfer who drives their marshmallow the farthest gets a prize or half of the pot.
 
-</div>
