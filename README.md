@@ -1,7 +1,8 @@
 
 
-# A Premier Block in Edison Park on Ozark Avenue
-### Website Intended for Neighbors of the Block and Family & Friends
+A Premier Block in Edison Park on Ozark Avenue
+Website Intended for Residents of the Block and Family & Friends
+
 -----
 
 ![Ozark](/assets/images/ozark.jpg "Ozark")
