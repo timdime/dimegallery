@@ -1,10 +1,8 @@
 # Ozark Block Party 2019
-
 Saturday, July 6
-
-<div style="text-align:left">
 ## Tentative Schedule 
 -----
+<div style="text-align:left">
 
 ### Neighbor’s Events
 * 1 hour Open swim, lawn games (Connect Four, Yahtzee, Rope Ring Toss)- (6956 Tim & Amanda)
@@ -22,13 +20,16 @@ Saturday, July 6
 ### Evening Activities
 * Outdoor Movie at Dusk- Elaine (6951)
 * Late Night Volleyball Game- Tony & Jayna (6946)
+
 -------
+
 ## Volunteers needed
 * ???- park 2 cars on South end of Ozark
 * Elaine- park 2 cars on North end of Ozark
 
-
 #### Pending more information/interest
 * Cake Walk- Anyone interested in coordinating this event? 
-* Bags Tournament- Anyone interested in heading this up? Or shall we retire this tournament and we can do a Marshmallow Long Drive Challenge: Golfers pay for a marshmallow and then will drive the marshmallow from the tee box and just like a Long Drive Competition, the golfer who drives their marshmallow the farthest gets a prize or half of the pot.
+* Bags Tournament- Anyone interested in heading this up? Or shall we retire this tournament and we can do a Marshmallow Long 
+* Drive Challenge: Golfers pay for a marshmallow and then will drive the marshmallow from the tee box and just like a Long Drive Competition, the golfer who drives their marshmallow the farthest gets a prize or half of the pot.
+
 </div>
