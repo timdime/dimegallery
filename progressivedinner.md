@@ -13,4 +13,4 @@ At the progressive dinner party, the block plans a meal together. Then each host
 * Allow 45 minutes to 1-1/2 hours at each location (the appetizer course may need less time while the entree may need more). Travel times will depend upon the distance between each home.
 * Enjoy eachothers company!
 
-### Let Amanda and Tim (##56) know if you are interested in either participating or hosting.
+### Let Amanda or Tim (##56) know if you are interested in either participating or hosting.
