@@ -4,21 +4,21 @@
 -----
 
 ### Neighbor’s Events
-* 1 hour Open swim, lawn games (Connect Four, Yahtzee, Rope Ring Toss)- (6956 Tim & Amanda)
-* Giant Jenga, Outdoor movie on the big screen- Elaine (6951)
-* Smoked ribs- Justin & Katrina (6960)
-* Ice cream treats- Pat & Anne (6944)
+* 1 hour Open swim, lawn games (Connect Four, Yahtzee, Rope Ring Toss)- (##56 Tim & Amanda)
+* Giant Jenga, Outdoor movie on the big screen- Elaine (##51)
+* Smoked ribs- Justin & Katrina (##60)
+* Ice cream treats- Pat & Anne (##44)
 
 ### Daytime Activities
-* 1 hour open swim, 12:30 - 1:30pm -- Tim & Amanda (6956)
-* Bounce house (4 hours) -- delivered between 10am - 2pm (6956)
-* Street hockey --Tony & Jayna (6946)
+* 1 hour open swim, 12:30 - 1:30pm -- Tim & Amanda (##56)
+* Bounce house (4 hours) -- delivered between 10am - 2pm (##56)
+* Street hockey --Tony & Jayna (##46)
 * DJ on the block-- 4 - 8pm $300
 * TBD CFD/Fire Truck- pending availability the day of event	
 
 ### Evening Activities
-* Outdoor Movie at Dusk- Elaine (6951)
-* Late Night Volleyball Game- Tony & Jayna (6946)
+* Outdoor Movie at Dusk- Elaine (##51)
+* Late Night Volleyball Game- Tony & Jayna (##46)
 
 -------
 
