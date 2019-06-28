@@ -1,3 +1,5 @@
+![Ozark Progressive Dinner](/assets/images/progressivedinner.jpg "Ozark Progressive Dinner")
+
 # Progressive Dinner
 ### Date To Be Determined, but targeting a Saturday in September
 ## This event is intended for adults only
