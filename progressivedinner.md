@@ -10,3 +10,5 @@ At this progressive dinner party, the block plans a meal together. Then each hos
 * Allow 45 minutes to 1-1/2 hours at each location (the appetizer course may need less time while the entree may need more). Travel times will depend upon the distance between each home.
 
 #### *Bring Your Own Cooler (BYOC) and be open to beer/wine exchanges/tastings
+
+Let Amanda and Tim (##56) know if you are interested in either attending or hosting during the block party.
