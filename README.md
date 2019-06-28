@@ -6,4 +6,4 @@
 
 ### [Archives](/archived/archive.html)
 
-Note the first 2 digits of addresses are replaced with "##" throughout the site.
+#### *Note the first 2 digits of addresses are replaced with "##" throughout the site.
