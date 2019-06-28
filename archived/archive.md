@@ -1,1 +1,1 @@
-### Nothing archived yet, but this will store old event information for future reference.
+### This section is used to store information after events take place for future reference.
