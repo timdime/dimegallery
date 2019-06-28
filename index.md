@@ -5,6 +5,5 @@
 ## [Progressive Dinner (Date TBD)](/progressivedinner.html)
 
 ### [Neighbor Contact Information](/encrypted.html)
-Contact Site Administrator for password
 
 [Archives](/archived/)
