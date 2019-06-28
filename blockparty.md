@@ -1,3 +1,5 @@
+![Ozark](/assets/images/bpsign.jpg "Ozark")
+
 # Ozark Block Party 2019
 #### Saturday, July 6
 ## Tentative Schedule 
