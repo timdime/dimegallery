@@ -28,8 +28,8 @@
 * DJ 🎵 on the block 4pm - 8pm -- $300 Elaine (##51)
 * Cake 🎂 🍰 🧁 Walk 5pm -- Pat & Anne (##44)
   * Bring a Cake or Dessert of Cake Proportions
-  * Assign Numbers to each Dessert & have a corresponding number on the ground (dance floor)
-  * Dance 💃 until the music stops
+  * Assign Numbers to each Dessert & have a corresponding number on the ground in a circle
+  * Dance 💃 moving clock-wise around the circle until the music stops
   * Move onto the most desirable available number to claim that dessert
 
 
