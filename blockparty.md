@@ -24,7 +24,7 @@
   * Please register your team of 2 with us throughout the day
   * Single elimination tournament
   * Play up to 15 except, championship play up to 21
-* Ice Cream 🍦 Treats around 4pm -- Pat & Anne (##44)
+* Ice Cream 🍦 Treats for kids around 4pm -- Pat & Anne (##44)
 * DJ 🎵 on the block 4pm - 8pm -- $300 Elaine (##51)
 * Cake 🎂 🍰 🧁 Walk 5pm -- Pat & Anne (##44)
   * Bring a Cake or Dessert of Cake Proportions
