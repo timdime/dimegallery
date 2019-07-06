@@ -1,7 +1,6 @@
 ![Ozark Block Party](/assets/images/bpsign.jpg "Ozark Block Party")
 
-# OZARK BLOCK PARTY 2019
-# SCHEDULE 
+# OZARK BLOCK PARTY 2019 SCHEDULE 
 ## Saturday, July 6
 
 -----
