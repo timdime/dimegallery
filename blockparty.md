@@ -17,7 +17,7 @@
   * 1 swing per participant
   * Marshmallow and right-handed driver provided
   * Tee box will be on north end of the block, driving the marshmallow south
-  * Marshmallow must stop within the street to be eligible
+  * Marshmallow must stop within the street to be eligible for longest distance
 * Smoked Ribs & Salmon around 2pm -- Justin & Katrina (##60)
 * Kids Open Swim 🏊‍♂️  (please have adult supervision for your child), 2:30pm - 3:30pm -- Tim & Amanda (##56)
 * Bags Tournament 3:30pm -- Tim & Amanda (##56)
@@ -28,7 +28,7 @@
 * DJ 🎵 on the block 4pm - 8pm -- $300 Elaine (##51)
 * Cake 🎂 🍰 🧁 Walk 5pm -- Pat & Anne (##44)
   * Bring a Cake or Dessert of Cake Proportions
-  * Assign Numbers to each Dessert & have a corresponding number on the groun (dance floor)
+  * Assign Numbers to each Dessert & have a corresponding number on the ground (dance floor)
   * Dance 💃 until the music stops
   * Move onto the most desirable available number to claim that dessert
 
