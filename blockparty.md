@@ -14,7 +14,7 @@
 * TBD CFD/Fire Truck 🚔 🚒 -- pending availability the day of event
 * Bounce House (4 hours) delivered between 10am - 2pm -- Tim & Amanda (##56)
 * Marshmallow Long Drive ⛳️ 1pm - 2pm -- Tim & Amanda (##56)
-  * 1 swing per participant
+  * 1 swing per golfer
   * Marshmallow and right-handed driver provided
   * Tee box will be on north end of the block, driving the marshmallow south
   * Marshmallow must stop within the street to be eligible for longest distance
