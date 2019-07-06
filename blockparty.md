@@ -18,12 +18,12 @@
   * Marshmallow and right-handed driver provided
   * Tee box will be on north end of the street, driving the marshmallow south
   * Marshmallow must stop within the street to be eligible for longest distance
-* Smoked Ribs & Salmon (sample) around 2pm -- Justin & Katrina (##60)
 * Kids Open Swim 🏊‍♂️  (please have adult supervision for your child), 2:30pm - 3:30pm -- Tim & Amanda (##56)
 * Bags Tournament 3:30pm -- Mo
   * Please register your team of 2 throughout the day
   * Single elimination tournament
   * Play up to 15, except championship play up to 21
+* Smoked Ribs & Salmon (sample) around 4pm -- Justin & Katrina (##60)
 * Ice Cream 🍦 Treats for kids around 4pm -- Pat & Anne (##44)
 * DJ 🎵 on the block 4pm - 8pm -- $300 Elaine (##51)
 
