@@ -16,7 +16,7 @@
 * Marshmallow Long Drive ⛳️ 1pm - 2pm -- Tim & Amanda (##56)
   * 1 swing per golfer
   * Marshmallow and right-handed driver provided
-  * Tee box will be on north end of the block, driving the marshmallow south
+  * Tee box will be on north end of the street, driving the marshmallow south
   * Marshmallow must stop within the street to be eligible for longest distance
 * Smoked Ribs & Salmon (sample) around 2pm -- Justin & Katrina (##60)
 * Kids Open Swim 🏊‍♂️  (please have adult supervision for your child), 2:30pm - 3:30pm -- Tim & Amanda (##56)
