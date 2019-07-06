@@ -11,7 +11,7 @@
 * Giant Jenga -- Elaine (##51)
 * Volleyball 🏐 and Street Hockey 🏒 -- Tony & Jayna (##46)
 
-### Daytime Activities
+### Daytime Activities (near chronological order)
 * TBD CFD/Fire Truck 🚔 🚒 -- pending availability the day of event
 * Bounce House (4 hours) delivered between 10am - 2pm -- Tim & Amanda (##56)
 * Marshmallow Long Drive ⛳️ 1pm - 2pm -- Tim & Amanda (##56)
