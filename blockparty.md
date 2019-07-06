@@ -21,6 +21,10 @@
   * Marshmallow must stop within the street to be eligible
 * Smoked Ribs & Salmon around 2pm -- Justin & Katrina (##60)
 * Kids Open Swim 🏊‍♂️  (please have adult supervision for your child), 2:30pm - 3:30pm -- Tim & Amanda (##56)
+* Bags Tournament 3:30pm -- Tim & Amanda (##56)
+  * Please register your team of 2 with us throughout the day
+  * Single elimination tournament
+  * Play up to 15 except, championship play up to 21
 * Ice Cream 🍦 Treats around 4pm -- Pat & Anne (##44)
 * DJ 🎵 on the block 4pm - 8pm -- $300 Elaine (##51)
 * Cake 🎂 🍰 🧁 Walk 5pm -- Pat & Anne (##44)
@@ -28,9 +32,7 @@
   * Assign Numbers to each Dessert & have a corresponding number on the groun (dance floor)
   * Dance 💃 until the music stops
   * Move onto the most desirable available number to claim that dessert
-* Bags Tournament 3:30pm -- Tim & Amanda (##56)
-  * Single elimination tournament
-  * Play up to 15 except, championship play up to 21
+
 
 ### Evening Activities
 * Outdoor Movie 🍿 at Dusk (Movie TBD) -- Elaine (##51)
