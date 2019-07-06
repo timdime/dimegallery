@@ -18,7 +18,7 @@
   * Marshmallow and right-handed driver provided
   * Tee box will be on north end of the block, driving the marshmallow south
   * Marshmallow must stop within the street to be eligible for longest distance
-* Smoked Ribs & Salmon around 2pm -- Justin & Katrina (##60)
+* Smoked Ribs & Salmon (sample) around 2pm -- Justin & Katrina (##60)
 * Kids Open Swim 🏊‍♂️  (please have adult supervision for your child), 2:30pm - 3:30pm -- Tim & Amanda (##56)
 * Bags Tournament 3:30pm -- Tim & Amanda (##56)
   * Please register your team of 2 with us throughout the day
