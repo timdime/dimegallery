@@ -1,2 +1,2 @@
 
-## [2019 Block Party](/archived/2019blockparty.html)
+## [2019 Block Party](/archived/2019/blockparty.html)
