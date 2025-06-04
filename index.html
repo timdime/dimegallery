@@ -727,4 +727,232 @@
                 const cupRect = cup.getBoundingClientRect();
                 const boardRect = gameBoard.getBoundingClientRect();
                 
-                const cupX = cupRect.left - boardRect.left
+                const cupX = cupRect.left - boardRect.left;
+                const cupY = cupRect.top - boardRect.top;
+                const cupWidth = cupRect.width;
+                const cupHeight = cupRect.height;
+                
+                // Check if dime is within cup bounds
+                if (x >= cupX && x <= cupX + cupWidth && 
+                    y >= cupY - 10 && y <= cupY + cupHeight) {
+                    
+                    // Score based on cup points
+                    const points = parseInt(cup.getAttribute('data-points'));
+                    score += points;
+                    
+                    // Visual feedback
+                    cup.style.animation = 'none';
+                    cup.style.transform = 'scale(1.2) rotate(360deg)';
+                    cup.style.background = 'linear-gradient(135deg, #00b894, #00cec9)';
+                    
+                    setTimeout(() => {
+                        cup.style.animation = 'sway 3s ease-in-out infinite';
+                        cup.style.transform = '';
+                        cup.style.background = 'linear-gradient(135deg, #fd79a8, #e84393)';
+                    }, 1000);
+                    
+                    // Create score popup
+                    createScorePopup(x, y, points);
+                    
+                    updateDisplay();
+                }
+            });
+        }
+
+        function createScorePopup(x, y, points) {
+            const popup = document.createElement('div');
+            popup.textContent = '+' + points;
+            popup.style.position = 'absolute';
+            popup.style.left = x + 'px';
+            popup.style.top = y + 'px';
+            popup.style.color = '#00b894';
+            popup.style.fontSize = '24px';
+            popup.style.fontWeight = 'bold';
+            popup.style.pointerEvents = 'none';
+            popup.style.zIndex = '1000';
+            popup.style.animation = 'fadeUpOut 2s ease-out forwards';
+            
+            gameBoard.appendChild(popup);
+            
+            setTimeout(() => {
+                gameBoard.removeChild(popup);
+            }, 2000);
+        }
+
+        function checkGameEnd() {
+            if (dimes <= 0) {
+                setTimeout(() => {
+                    let message = `Game Over! Final Score: ${score}\n\n`;
+                    
+                    if (score >= 100) {
+                        message += "🏆 Dalí would be proud! You've mastered the surreal art of dime tossing!";
+                        level++;
+                    } else if (score >= 50) {
+                        message += "🎨 Not bad! Your throws are becoming more surreal!";
+                    } else {
+                        message += "🎪 Keep practicing! Even Dalí needed time to perfect his craft!";
+                    }
+                    
+                    alert(message);
+                    
+                    if (confirm("Would you like to play again?")) {
+                        resetGame();
+                    }
+                }, 1000);
+            }
+        }
+
+        function resetGame() {
+            score = 0;
+            dimes = 10;
+            power = 0;
+            resetDimePosition();
+            updateDisplay();
+            powerFill.style.height = '0%';
+        }
+
+        // Add CSS animation for score popup
+        const style = document.createElement('style');
+        style.textContent = `
+            @keyframes fadeUpOut {
+                0% {
+                    opacity: 1;
+                    transform: translateY(0px);
+                }
+                100% {
+                    opacity: 0;
+                    transform: translateY(-50px);
+                }
+            }
+        `;
+        document.head.appendChild(style);
+
+        // Smooth scrolling for navigation
+        document.querySelectorAll('.nav-link').forEach(link => {
+            link.addEventListener('click', function(e) {
+                e.preventDefault();
+                const targetId = this.getAttribute('href').substring(1);
+                const targetElement = document.getElementById(targetId);
+                
+                if (targetElement) {
+                    targetElement.scrollIntoView({
+                        behavior: 'smooth',
+                        block: 'start'
+                    });
+                }
+            });
+        });
+
+        // Dynamic background elements
+        function createFloatingElement() {
+            const elements = ['🕐', '🎨', '🪙', '🎪', '🌙', '⭐'];
+            const element = document.createElement('div');
+            element.textContent = elements[Math.floor(Math.random() * elements.length)];
+            element.style.position = 'fixed';
+            element.style.left = Math.random() * window.innerWidth + 'px';
+            element.style.top = '-50px';
+            element.style.fontSize = '24px';
+            element.style.opacity = '0.6';
+            element.style.pointerEvents = 'none';
+            element.style.zIndex = '-1';
+            element.style.animation = `floatDown ${5 + Math.random() * 5}s linear forwards`;
+            
+            document.body.appendChild(element);
+            
+            setTimeout(() => {
+                document.body.removeChild(element);
+            }, 10000);
+        }
+
+        // Add floating animation
+        const floatingStyle = document.createElement('style');
+        floatingStyle.textContent = `
+            @keyframes floatDown {
+                0% {
+                    transform: translateY(-50px) rotate(0deg);
+                    opacity: 0.6;
+                }
+                100% {
+                    transform: translateY(${window.innerHeight + 50}px) rotate(360deg);
+                    opacity: 0;
+                }
+            }
+        `;
+        document.head.appendChild(floatingStyle);
+
+        // Create floating elements periodically
+        setInterval(createFloatingElement, 3000);
+
+        // Initialize game when page loads
+        window.addEventListener('load', initGame);
+
+        // Responsive adjustments
+        function adjustForMobile() {
+            if (window.innerWidth < 768) {
+                const cups = document.querySelectorAll('.cup');
+                cups.forEach(cup => {
+                    cup.style.width = '60px';
+                    cup.style.height = '75px';
+                });
+                
+                const gameContainer = document.querySelector('.game-container');
+                gameContainer.style.height = '400px';
+            }
+        }
+
+        window.addEventListener('resize', adjustForMobile);
+        adjustForMobile(); // Run on initial load
+
+        // Add some extra Dalí-inspired interactions
+        document.addEventListener('mousemove', function(e) {
+            const clocks = document.querySelectorAll('.clock');
+            clocks.forEach((clock, index) => {
+                const speed = (index + 1) * 0.001;
+                const x = e.clientX * speed;
+                const y = e.clientY * speed;
+                clock.style.transform = `translate(${x}px, ${y}px) rotate(${x + y}deg)`;
+            });
+        });
+
+        // Konami Code Easter Egg
+        let konamiCode = [];
+        const konamiSequence = [38, 38, 40, 40, 37, 39, 37, 39, 66, 65]; // Up Up Down Down Left Right Left Right B A
+
+        document.addEventListener('keydown', function(e) {
+            konamiCode.push(e.keyCode);
+            if (konamiCode.length > konamiSequence.length) {
+                konamiCode.shift();
+            }
+            
+            if (konamiCode.length === konamiSequence.length && 
+                konamiCode.every((code, index) => code === konamiSequence[index])) {
+                
+                // Activate super surreal mode
+                document.body.style.animation = 'spin 2s ease-in-out';
+                dimes += 30;
+                score += 500;
+                updateDisplay();
+                
+                alert("🎪 SUPER SURREAL MODE ACTIVATED! 🎪\n+30 Dimes and +500 Points!\nReality has been thoroughly bent!");
+                
+                setTimeout(() => {
+                    document.body.style.animation = '';
+                }, 2000);
+                
+                konamiCode = [];
+            }
+        });
+
+        // Add spin animation for easter egg
+        const spinStyle = document.createElement('style');
+        spinStyle.textContent = `
+            @keyframes spin {
+                0% { transform: rotate(0deg) scale(1); }
+                50% { transform: rotate(180deg) scale(1.1); }
+                100% { transform: rotate(360deg) scale(1); }
+            }
+        `;
+        document.head.appendChild(spinStyle);
+    </script>
+</body>
+</html>
